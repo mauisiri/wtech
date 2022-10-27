@@ -1,0 +1,37 @@
+
+  body {
+    font-family: system-ui;
+    background: white;
+    color: black;
+    text-align:left;
+  }
+
+  h1 {
+    color: white;
+    text-shadow: 2px  0px 0px #FF7F99,
+               0px  2px 0px #FF7F99,
+              -2px  0px 0px #FF7F99,
+               0px -2px 0px #FF7F99;
+}
+
+input, textarea, select, button {
+  width : 150px;
+  padding: 0;
+  margin: 0;
+  }
+
+.name {
+  color: grey
+}
+
+form {
+  overflow: hidden;
+  position: relative;
+  width  : 740px;
+  height : 498px;
+  margin : 0 auto;
+  padding: 1em;
+  box-sizing: border-box;
+     }
+  
+  
