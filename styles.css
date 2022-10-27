@@ -1,0 +1,166 @@
+
+
+
+
+ul {
+  list-style: none;
+}
+
+@font-face {
+  font-family: face;
+  src: url(jost-regular.ttf);
+}
+
+/*------------HEADER--------------*/
+.header{    
+    box-sizing: border-box;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+    font-family: face;
+    width: 100%;
+    height: 85px;
+    top: 0px;
+    background: #FF7F99;
+    color:white;
+}
+
+  .women {
+
+    display: flex;
+    flex-direction:row;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Jost';
+    font-style: normal;
+    margin: 0px 0px 0px 40px;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FFFFFF;
+  }  
+
+
+  .tech{
+    display: flex;
+    flex-direction:row;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    color: #FFCA41;
+  }
+
+
+
+                /*NO SÉ SEPARAR LOS 3 CONTENEDORES ENTRE SÍ*/
+.toplist {
+
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  margin: 20px;
+  font-family: face;
+}
+
+  .somos {
+    display: flex;
+    font-size: 20px;
+    color:white;
+  }
+
+
+  .contactenos {
+  display: flex;
+  font-size: 20px;
+  color:white; 
+  }
+
+  /*------------MAIN--------------*/
+
+
+  .main{
+  flex-direction:row;
+}
+
+.mainpic{
+
+}
+
+
+  
+.maintext{
+  
+}  
+  .consult{
+
+    }
+
+  .specialists{
+
+  }
+
+  .call{
+
+  }
+
+  /*------------FOOTER--------------*/
+
+
+  .botrow1{
+
+  }
+
+  .Esp1{
+
+  }
+  
+  .Esp2{
+
+  }
+  
+  .Esp3{
+
+  }
+  
+  .Esp4{
+
+  }
+  
+  .Esp5{
+
+  }
+  
+
+
+  .botrow2{
+
+  }
+
+  .esp1{
+
+  }
+
+
+  .esp2{
+
+  }
+
+  
+  .esp3{
+
+  }
+
+  
+  .esp4{
+
+  }
+
+  
+  .esp5{
+
+  }
+
+  
