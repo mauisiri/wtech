@@ -138,7 +138,7 @@ main{
   
   .consult{
     width:30px;
-    length:30px;
+    height:30px;
     font-size: 40px;
     font-family: 'Jost';
     font-style: normal;
@@ -227,7 +227,7 @@ main{
     align-items: center;
     justify-items: center;
     width:30px;
-    length:30px;
+    height:30px;
   }
 
   
