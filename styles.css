@@ -80,7 +80,7 @@ ul {
 
   /*------------MAIN--------------*/
 
-
+/*
   main{
     display: flex;
     flex-direction:row;
@@ -103,16 +103,40 @@ ul {
     height:100%;
     border-radius: 10%;
   }
+
+  */
+  
+main{
+  display: flex;
+  flex-direction:row;
+  align-items: row;
+}
+
+.mainpic{
+  width: 50%;
+}
+
+
+
+
   
 .maintext{
+  width: 50%;
   display:flex;
   flex-direction:column;
   align-items: flex-end;
   justify-content: left;
-
 }  
-  
+
+ /* 
 .consult{
+
+  align-items: left;
+  justify-content: center;
+}
+*/
+  
+  .consult{
     width:30px;
     length:30px;
     font-size: 40px;
@@ -127,6 +151,8 @@ ul {
   }
 
   .boton {
+    width: 130px;
+    height:50px;
     border: 1px solid #FFCA41;
     padding: 10px; 
     background-color: #FFCA41; 
