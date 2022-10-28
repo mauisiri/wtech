@@ -88,27 +88,21 @@ main{
 }
 
 .mainpic{
+  width: 50%;
 }
 
 
 
-.group{
-  width: 200px;
-  height:200px;
-  flex-direction:row;
-
-  background-color: black;
-  border-radius: 100%;
-}
 
   
 .maintext{
+  width: 50%;
   display:flex;
   flex-direction:column;
-  align-items: flex-end;
-  justify-content: left;
-
-}  
+  align-items: left;
+  justify-content: center;
+}
+  
   .consult{
     width:30px;
     length:30px;
@@ -124,6 +118,8 @@ main{
   }
 
   .boton {
+    width: 130px;
+    height:50px;
     border: 1px solid #FFCA41;
     padding: 10px; 
     background-color: #FFCA41; 
